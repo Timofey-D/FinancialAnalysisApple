@@ -7,14 +7,18 @@ netIncome =                                     []
 changeInForeignCurrencyTranslationNetOfTax =    []
 
 """Change in unrealized gains/losses on derivative instruments, net of tax:"""
-Change in fair value of derivatives
+changeInFairValueOfDerivatives =                []
 
-Adjustment for net (gains)/losses realized and included in net income
-Total change in unrealized gains / losses on derivative instruments
+adjustmentForNetGainsLossesRealizedAndIncludedInNetIncomeDerivative =\
+                                                []
+totalChangeInUnrealizedGainsLossesOnDerivativeInstruments =\
+                                                []
 
 """Change in unrealized gains/losses on marketable debt securities, net of tax:"""
-Change in fair value of marketable debt securities
-Adjustment for net (gains)/losses realized and included in net income
-Total change in unrealized gains / losses on marketable debt securities
-Total other comprehensive income/(loss)
-Total comprehensive income
+changeInFairValueOfMarketableDebtSecurities =   []
+adjustmentForNetGainsLossesRealizedAndIncludedInNetIncomeMarketable =\
+                                                []
+totalChangeInUnrealizedGainsLossesOnMarketableDebtSecurities =\
+                                                []
+totalOtherComprehensiveIncomeLoss =             []
+totalComprehensiveIncome =                      []
